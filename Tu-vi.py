@@ -2,9 +2,8 @@
 """
 Created on Thu Mar 25 22:32:14 2021
 Tử vi đấu số
-@author: Oasis
+@author: duxcode
 """
-#Import datetime
 from datetime import date
 
 
@@ -138,7 +137,9 @@ dc = {1:'Tý', 2:'Sửu', 3:'Dần', 4:'Mão',
       9:'Thân', 10:'Dậu', 11:'Tuất', 0:'Hợi'}
 # //Kết thúc phần Thiên Can - Địa Chi
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
-
+#Welcomde
+print("Chương trình xem tử vi")
+print("Author: https://duxcode.com")
 #Nhập thông tin
 ho_va_ten = str(input("Họ và tên: "))
 gioi_tinh = str(input("Giới tính (Nam/Nữ): "))
