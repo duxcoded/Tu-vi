@@ -5,10 +5,6 @@ Tử vi đấu số
 @author: duxcode
 """
 from datetime import date
-
-
-
-#Khai báo hàm today
 today = date.today()
 Day = today.day
 Month = today.month
